@@ -113,7 +113,7 @@ public class JavaAwtDesktop {
 
         // Create label to hold the text.
         String[] text =
-        {     "Version 2.1",
+        {     "Version 2.5.4",
               "",
               "Copyright \u00a9 2019, Dan Harvey, all rights reserved",
               "Contact: harveyd@sou.edu, http://cs.sou.edu/cs/~harveyd/acorns",

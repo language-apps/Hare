@@ -56,7 +56,6 @@ class SoundFrame extends JFrame implements WindowListener
        // Instantiate the application frame with the acorns icon.
        super("(H)olistic (A)udio (R)ecorder and (E)ditor (HARE)");
 
-       
        ClassLoader loader = SoundPanels.class.getClassLoader();
        URL helpSetUrl = getClass().getResource
                                  ("/helpData/acorns.hs");
